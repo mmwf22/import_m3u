@@ -1,6 +1,5 @@
 #EXTM3U
 
-# Bosnien und Herzegowina
 #EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
 src="https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-name="FTV Ⓢ" tvg-logo="https://camo.githubusercontent.com/900734555b9048a6e77bd4c81bcbd2aa5ea716fe7686f57924037e60b3710110/68747470733a2f2f692e696d6775722e636f6d2f4a7076733475332e706e67" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
