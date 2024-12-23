@@ -1,18 +1,24 @@
 #EXTM3U
 
 # Bosnien und Herzegowina
-#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",BHRT
-src="https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
-#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",N1 BIH
+#EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
+src="https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ - ANDERE LINK
+https://webtvstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-id="N1BosniaHerzegovina.ba" group-title="Bosnia and Herzegovina",N1 Bosna i Hercegovina
 https://list.iptvcat.com/my_list/s/0d372ac0faba004554c59a4c8b669d06.m3u8
+#EXTINF:-1 tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-id="N1BosniaHerzegovina.ba" group-title="Bosnia and Herzegovina",N1 Bosna i Hercegovina - ANDERE LINK
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",Arena Sport 3 BA
 https://list.iptvcat.com/my_list/s/d1485345c6c76eb15a3ca7e5f2b5f8ab.m3u8
-#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",RTV Zenica
+#EXTINF:-1 tvg-name="RTV ZE Ⓢ" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-id="RTVZenica.ba" group-title="Bosnia and Herzegovina",RTV ZE Ⓢ - ANDERE LINK
 https://list.iptvcat.com/my_list/s/366e4af5123e6d1f32086531be3e3c99.m3u8
+#EXTINF:-1 tvg-name="RTV ZE Ⓢ" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-id="RTVZenica.ba" group-title="Bosnia and Herzegovina",RTV ZE Ⓢ
+https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",Sevdah TV
 https://list.iptvcat.com/my_list/s/1a9fa61adb7d8034e5198ac4cf0d490b.m3u8
-#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",Sehara TV
-https://list.iptvcat.com/my_list/s/8229d254e8a48f3928f940117459136e.m3u8
+#EXTINF:-1 tvg-name="Sevdah Ⓢ" tvg-logo="https://i.imgur.com/V6W3yEp.png" tvg-id="SevdahTV.ba" group-title="Bosnia and Herzegovina",Sevdah Ⓢ
+https://restreamer2.tnt.ba/hls/stream.m3u8
 
 
 ::contentReference[oaicite:0]{index=0}
