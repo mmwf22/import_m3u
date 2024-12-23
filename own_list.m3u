@@ -1,0 +1,19 @@
+#EXTM3U
+
+# Bosnien und Herzegowina
+#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",BHRT
+src="https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
+#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",N1 BIH
+https://list.iptvcat.com/my_list/s/0d372ac0faba004554c59a4c8b669d06.m3u8
+#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",Arena Sport 3 BA
+https://list.iptvcat.com/my_list/s/d1485345c6c76eb15a3ca7e5f2b5f8ab.m3u8
+#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",RTV Zenica
+https://list.iptvcat.com/my_list/s/366e4af5123e6d1f32086531be3e3c99.m3u8
+#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",Sevdah TV
+https://list.iptvcat.com/my_list/s/1a9fa61adb7d8034e5198ac4cf0d490b.m3u8
+#EXTINF:-1 tvg-country="BA" tvg-language="Bosnian",Sehara TV
+https://list.iptvcat.com/my_list/s/8229d254e8a48f3928f940117459136e.m3u8
+
+
+::contentReference[oaicite:0]{index=0}
+ 
